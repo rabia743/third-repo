@@ -3,5 +3,6 @@ if a > 0 :
     print("the valid number")
 else:
     print("invalid number")
-print("end of the program")
+
+print("the end of the program")
 
