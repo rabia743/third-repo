@@ -1,6 +1,7 @@
-a = input("enter a first number:")
-a = int(a)
-if a < 0:
+a = int(input("enter a first number:"))
+if a > 0 :
     print("the valid number")
 else:
     print("invalid number")
+print("end of the program")
+
