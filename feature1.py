@@ -5,5 +5,5 @@ else:
     print("invalid number")
 
 print("hello world")
-
+c = int(input("enter a first number:"))
 
